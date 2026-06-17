@@ -3311,7 +3311,8 @@
       },
       "shareId": null,
       "nlogExtras": null,
-      "_parsedV3": true
+      "_parsedV3": true,
+      "roastWeightGrams": 88.4
     },
     {
       "id": "r6605690",
