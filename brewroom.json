@@ -3,7 +3,7 @@
   "beans": [
     {
       "id": "b760311250",
-      "name": "埃塞俄比亚 阿洛村「天空计划」友达 Tomodachi 74158 双重厌氧蜜处理",
+      "name": "Ethiopia Alo Village Sky Project Tomodachi 74158 Double Anaerobic Honey",
       "country": "Ethiopia",
       "region": "Sidama, Bensa (Alo Village)",
       "variety": [],
@@ -14,9 +14,9 @@
       "userRating": null,
       "tastingNotes": "",
       "notes": "",
-      "farm": "",
-      "altitude": "",
-      "harvestYear": "",
+      "farm": "Alo Village Sky Project, Tomodachi Lot",
+      "altitude": "2450+ masl",
+      "harvestYear": "2025",
       "purchaseDate": null,
       "priceAmount": null,
       "priceCurrency": "",
@@ -38,7 +38,7 @@
       "adjustmentGrams": null,
       "hasPhoto": false,
       "createdAt": "2026-07-23T04:59:20.311Z",
-      "updatedAt": "2026-07-23T04:59:20.311Z"
+      "updatedAt": "2026-07-23T05:01:13.195Z"
     },
     {
       "id": "b662975696",
