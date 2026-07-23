@@ -21,7 +21,7 @@
       "priceAmount": 1360,
       "priceCurrency": "CNY",
       "weightGrams": 1000,
-      "purchaseSource": "",
+      "purchaseSource": "南京意可坊进出口贸易有限公司",
       "cuppingScore": null,
       "acidity": "",
       "bodyDesc": "",
@@ -38,7 +38,7 @@
       "adjustmentGrams": null,
       "hasPhoto": false,
       "createdAt": "2026-07-23T05:15:06.952Z",
-      "updatedAt": "2026-07-23T05:18:55.228Z"
+      "updatedAt": "2026-07-23T05:22:08.394Z"
     },
     {
       "id": "b760311250",
