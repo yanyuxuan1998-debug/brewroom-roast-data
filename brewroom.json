@@ -14,9 +14,9 @@
       "userRating": null,
       "tastingNotes": "",
       "notes": "",
-      "farm": "",
-      "altitude": "",
-      "harvestYear": "",
+      "farm": "Danche Washing Station",
+      "altitude": "2100–2350 masl",
+      "harvestYear": "2026（Harvest Month: January）",
       "purchaseDate": null,
       "priceAmount": null,
       "priceCurrency": "",
@@ -38,7 +38,7 @@
       "adjustmentGrams": null,
       "hasPhoto": false,
       "createdAt": "2026-08-02T08:52:06.695Z",
-      "updatedAt": "2026-08-02T08:52:06.695Z"
+      "updatedAt": "2026-08-02T08:53:36.525Z"
     },
     {
       "id": "b597857247",
